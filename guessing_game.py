@@ -24,4 +24,5 @@ def main():
             print("Invalid input. Please enter a valid number between 1 and 50.")
 
 if __name__ == "__main__":
+
     main()
